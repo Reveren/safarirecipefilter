@@ -44,6 +44,8 @@
 	<string>1220</string>
 	<key>DTXcodeBuild</key>
 	<string>12B45b</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.14</string>
 	<key>NSMainStoryboardFile</key>
